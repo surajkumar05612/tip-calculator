@@ -1,5 +1,5 @@
 ## Hello Everyone!!
-# BAND-NAME-GENERATOR
+# TIP-CALCULATOR
 
    It's a simple python program which will calculate the amount of bill to be distributed among all equally with having tip percentage in it.
 
